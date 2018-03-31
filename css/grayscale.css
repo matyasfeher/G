@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - G v ()
- * Copyright 2013-2017 Start Bootstrap
+ * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/G/blob/master/LICENSE)
  */
 body {
@@ -45,6 +45,9 @@ a {
   a:focus, a:hover {
     text-decoration: none;
     color: #1d9b6c; }
+
+.pics {
+  border: 5px solid white; }
 
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;

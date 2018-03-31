@@ -3,23 +3,23 @@ var images = [];	// Images Array
 var time = 4000;	// Time Between Switch
 	 
 // Image List
-images[0] = "./img/1.jpg";
-images[1] = "./img/2.jpg";
-images[2] = "./img/3.jpg";
-images[3] = "./img/4.jpg";
-images[4] = "./img/5.jpg";
-images[5] = "./img/6.jpg";
-images[6] = "./img/7.jpg";
-images[7] = "./img/8.jpg";
-images[8] = "./img/9.jpg";
-images[9] = "./img/10.jpg";
-images[10] = "./img/11.jpg";
-images[11] = "./img/12.jpg";
-images[12] = "./img/13.jpg";
-images[13] = "./img/14.jpg";
-images[14] = "./img/15.jpg";
-images[15] = "./img/16.jpg";
-images[16] = "./img/17.jpg";
+images[0] = "./img/1.png";
+images[1] = "./img/2.png";
+images[2] = "./img/3.png";
+images[3] = "./img/4.png";
+images[4] = "./img/5.png";
+images[5] = "./img/6.png";
+images[6] = "./img/7.png";
+images[7] = "./img/8.png";
+images[8] = "./img/9.png";
+images[9] = "./img/10.png";
+images[10] = "./img/11.png";
+images[11] = "./img/12.png";
+images[12] = "./img/13.png";
+images[13] = "./img/14.png";
+images[14] = "./img/15.png";
+images[15] = "./img/16.png";
+images[16] = "./img/17.png";
 // Change Image
 function changeImg(){
 	document.slide.src = images[i];
